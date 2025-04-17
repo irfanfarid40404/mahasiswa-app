@@ -1,9 +1,8 @@
-name = "mahasiswa-app"
+name = "vue-mahasiswa-app"
 compatibility_date = "2023-05-01"
 
 [build]
 command = "npm run build"
-upload.dir = "dist"
 
 [[d1_databases]]
 binding = "DB"
