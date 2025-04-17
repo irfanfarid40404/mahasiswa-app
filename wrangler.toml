@@ -4,8 +4,9 @@ compatibility_date = "2023-05-01"
 [build]
 command = "npm run build"
 
-[assets]
-directory = "./dist"
+[site]
+bucket = "dist"
+entry-point = "functions"
 
 [[d1_databases]]
 binding = "DB"
