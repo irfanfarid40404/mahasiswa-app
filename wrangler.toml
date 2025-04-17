@@ -1,4 +1,4 @@
-name = "vue-mahasiswa-app"
+name = "mahasiswa-app"
 compatibility_date = "2023-05-01"
 
 [build]
