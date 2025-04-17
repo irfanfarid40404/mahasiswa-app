@@ -1,10 +1,11 @@
-name = "mahasiswa-app"
-main = "./dist/index.html"
+name = "vue-mahasiswa-app"
 compatibility_date = "2023-05-01"
+main = "functions/index.js"
 
 [build]
 command = "npm run build"
-publish = "dist"
+upload.format = "modules"
+upload.dir = "dist"
 
 [[d1_databases]]
 binding = "DB"
@@ -13,4 +14,3 @@ database_id = "f69b9e83-301b-4023-8112-67acc1375800"
 
 [site]
 bucket = "dist"
-entry-point = "functions"
