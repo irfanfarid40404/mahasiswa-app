@@ -1,13 +1,13 @@
-name = "mahasiswa-app"
+name = "vue-mahasiswa-app"
 compatibility_date = "2023-05-01"
 
 [build]
 command = "npm run build"
 
+[assets]
+directory = "./dist"
+
 [[d1_databases]]
 binding = "DB"
 database_name = "mahasiswa-db"
 database_id = "f69b9e83-301b-4023-8112-67acc1375800"
-
-[pages]
-bucket = "dist"
