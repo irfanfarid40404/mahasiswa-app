@@ -75,5 +75,3 @@ defineEmits(['edit', 'delete'])
   min-width: 800px;
 }
 </style>
-
-
