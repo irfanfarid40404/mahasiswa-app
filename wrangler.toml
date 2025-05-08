@@ -1,0 +1,8 @@
+name = "mahasiswa-app"
+compatibility_date = "2023-05-18"
+pages_build_output_dir = "dist"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "mahasiswa-app"
+database_id = "6761bef4-48b7-4576-af28-6f9b47a5586c"  # Ganti dengan ID database D1 Anda
