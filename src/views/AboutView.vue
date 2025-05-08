@@ -13,7 +13,7 @@
           Aplikasi ini dibuat untuk mempermudah proses pendaftaran dan manajemen data mahasiswa.
         </p>
         <div class="row mt-4">
-          <div class="col-md-6">
+          <!-- <div class="col-md-6">
             <h5>Fitur Utama:</h5>
             <ul class="list-group list-group-flush">
               <li class="list-group-item">
@@ -55,7 +55,7 @@
               </li>
             </ul>
           </div>
-        </div>
+        </div> -->
       </div>
     </div>
   </div>
